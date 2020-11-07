@@ -232,11 +232,3 @@ section {
   background-color: #F7941D!important;
 }
 
-/*--------------------------------------------------------------
-# Responsive flexbox  - added by Sathya
---------------------------------------------------------------*/
-
-@media screen and (max-width:800px) {
-  .flex-container { flex-wrap: wrap;  }
-  .item:first-child { flex-basis: 100%; }
-}
