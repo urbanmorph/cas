@@ -232,3 +232,11 @@ section {
   background-color: #F7941D!important;
 }
 
+/*--------------------------------------------------------------
+# Carousel images - added by Sathya
+--------------------------------------------------------------*/
+.carimg {
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+}
